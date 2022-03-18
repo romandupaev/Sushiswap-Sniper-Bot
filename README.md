@@ -7,6 +7,6 @@ Sniper Bot for Sushiswap based on BSC Network.
 4. Read Guidebook.pdf
 5. Enjoy, leave a star & watch after using ^_^
 # Change Log:
-v.1.1 [release]
+- v.1.1 [release]
 # FAQ
 IF YOU HAVE ANY QUESTIONS OR TROUBLES WITH PROGRAM, YOU CAN ASK/TELL ME ABOUT IT: r1ghtl3ftwork@gmail.com
